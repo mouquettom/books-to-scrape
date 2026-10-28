@@ -4,13 +4,18 @@
 __pycache__/
 
 # Environnement virtuel
+env/
 venv/
-.env/
+.venv/
+
+# Fichiers générés par le script
+data/
+images/
 
 # Fichier de log
 *.log
 
-# Paramètre d'éditeur
+# Paramètres d'éditeur
 .vscode/
 .idea/
 
